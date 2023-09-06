@@ -1,8 +1,6 @@
 # QR Code Generator
 # Générateur de QR Code
 
-![Logo du Générateur de QR Code](/chemin/vers/votre/logo.png)
-
 Ce projet est un outil simple de génération de QR codes en Python. Il vous permet de créer facilement des QR codes personnalisés pour diverses utilisations, telles que le partage de liens, de numéros de téléphone, l'affichage de données, et bien plus encore.
 
 ## Fonctionnalités
