@@ -10,9 +10,14 @@ Ce projet est un outil simple de génération de QR codes en Python. Il vous per
 - Prise en charge de divers types de données, tels que du texte, des URL, etc.
 - Possibilité de télécharger les QR codes générés en tant qu'images.
 - Interface utilisateur conviviale en ligne de commande.
-- Le QR code est directement enregistré dans le dossier téléchargement de votre ordinateur sous le nom QRcode
+- Le QR code est directement enregistré dans le dossier téléchargement de votre ordinateur sous le nom QRcode.
 
 ## Utilisation
 
-- De plus sont utilisation est tres simple puisque le ficher et sous la forme d'un executable prêt à être utilisé
-- Aucune configuration et aucune installation n'est requise, mise à part l'utilisation d'un ordinateur sous Windows 
+- De plus sont utilisation est tres simple puisque le ficher et sous la forme d'un executable prêt à être utilisé.
+- Aucune configuration et aucune installation n'est requise, mise à part l'utilisation d'un ordinateur sous Windows.
+
+## Téléchargement
+
+- Pour télécharger l'outil cliquer [ici](https://github.com/TiboTsr/generateur-QRcode/releases) et choisisez la version de votre choix.
+- Bien sur, nous vous recommandons d'utiliser la derniere version pour une meilleure utilisation.
