@@ -1,6 +1,6 @@
 # QR Code Generator
 
-![QR Code Generator Logo](/path/to/your/logo.png)
+
 
 Ce projet est un outil simple de génération de QR codes en Python. Il vous permet de créer facilement des QR codes personnalisés pour diverses utilisations, comme le partage de liens, de numéro de téléphone, l'affichage de données et encore plus encore.
 
