@@ -21,3 +21,4 @@ Ce projet est un outil simple de génération de QR codes en Python. Il vous per
 
 - Pour télécharger l'outil cliquer [ici](https://github.com/TiboTsr/generateur-QRcode/releases) et choisisez la version de votre choix.
 - Bien sur, nous vous recommandons d'utiliser la derniere version pour une meilleure utilisation.
+- Si jamais windows defender vous recommande de ne pas utiliser le logiciel par mesure de sécurité, n'ayez crainte j'ai autre chose à faire que de créer des virus ou autres choses malveillante
