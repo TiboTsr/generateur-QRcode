@@ -33,11 +33,8 @@ Ce projet est un outil simple de génération de QR codes en Python. Il vous per
 
 3. **Nouvelle documentation Sphinx** :
    - Le code a été complètement documenté pour aider les développeurs et les utilisateurs à comprendre et à utiliser l'outil plus facilement.
-   
-4. **Reconnaissance de la couleur "blanc" corrigée** :
-   - Vous pouvez maintenant saisir "blanc" sans erreur.
 
-5. **Corrections et améliorations diverses** :
+4. **Corrections et améliorations diverses** :
    - Divers bogues ont été corrigés et des améliorations de performance ont été apportées pour une expérience utilisateur optimale.
 
 Merci d'utiliser le Générateur de QR Code ! Nous espérons que cet outil vous sera utile pour créer des QR codes personnalisés pour toutes vos applications.
