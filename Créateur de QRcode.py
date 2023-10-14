@@ -317,5 +317,4 @@ class QRCodeGenerator:
         img.show(img_path)
 
 if __name__ == '__main__':
-    a = QRCodeGenerator()
-    a.generate_qrcode()
+    QRcodeGenerator().generate_qrcode()
