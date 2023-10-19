@@ -1,0 +1,51 @@
+# LISEZ-MOI AVANT D'UTILISER
+
+## Générateur de Codes QR Personnalisés
+
+Ce projet est un générateur de codes QR simple et personnalisable. Il vous permet de créer des codes QR avec diverses options, telles que la taille, les couleurs et les données à inclure dans le code QR.
+
+## Comment Utiliser le Générateur
+
+1. Exécution du Code
+
+   - Assurez-vous d'avoir Python installé sur votre système.
+
+   - Exécutez le fichier `votre_interface_utilisateur.py` en utilisant la commande `python votre_interface_utilisateur.py`.
+
+2. Choix de la Langue
+
+   - Au démarrage, vous serez invité à choisir votre langue (français ou anglais). Sélectionnez la langue de votre choix.
+
+3. Personnalisation du Code QR
+
+   - Vous serez guidé à travers un processus de personnalisation du code QR. Vous devrez répondre à une série de questions pour définir les paramètres du code QR. Voici quelques-unes des questions auxquelles vous devrez répondre :
+   
+     - "Que voulez-vous partager avec le QR code ?" : Choisissez entre mot, lien, numéro de téléphone, SMS, ou autre.
+     - Saisissez la version du QR code : La "version" d'un code QR est un paramètre qui détermine la taille du code QR, c'est-à-dire le nombre de modules (carrés) dans le code. Plus la version est élevée, plus le code QR est grand et peut stocker davantage de données. En d'autres termes, la version contrôle la capacité du code QR à stocker des informations
+     - "Saisissez la taille du QR code (De 1 à 50) : " : Définissez la taille du code QR.
+     - "Saisissez la taille de la bordure du QR code (De 1 à 20) : " : Choisissez la taille de la bordure.
+     - Vous devrez également spécifier les couleurs pour le code QR et son arrière-plan.
+
+4. Génération du Code QR
+
+   - Une fois que vous avez répondu à toutes les questions, le code QR personnalisé sera généré.
+
+5. Enregistrement et Affichage
+
+   - Le code QR sera enregistré dans le dossier de téléchargement de votre système.
+
+   - Il sera également affiché à l'écran pour que vous puissiez le visualiser.
+
+6. Prérequis
+
+   - Assurez-vous d'avoir les bibliothèques Python `qrcode`, `Pillow`, et `urllib3` installées. Vous pouvez les installer avec pip :
+
+     ```
+     pip install qrcode[pil] urllib3
+     ```
+
+7. Assistance
+
+   - Pour toute question ou assistance, n'hésitez pas à [me contacter](https://www.instagram.com/tibotsr).
+
+Profitez de la génération de codes QR personnalisés !
