@@ -10,18 +10,20 @@ Ce projet est un générateur de codes QR simple et personnalisable. Il vous per
 
    - Assurez-vous d'avoir Python installé sur votre système.
 
-   - Exécutez le fichier `votre_interface_utilisateur.py` en utilisant la commande `python votre_interface_utilisateur.py`.
+   - Exécutez le fichier `votre_interface_utilisateur.py` en utilisant la commande
+     `python votre_interface_utilisateur.py`.
 
 2. Choix de la Langue
 
-   - Au démarrage, vous serez invité à choisir votre langue (français ou anglais). Sélectionnez la langue de votre choix.
+   - Au démarrage, vous serez invité à choisir votre langue (français ou anglais).
+     Sélectionnez la langue de votre choix.
 
 3. Personnalisation du Code QR
 
    - Vous serez guidé à travers un processus de personnalisation du code QR. Vous devrez répondre à une série de questions pour définir les paramètres du code QR. Voici quelques-unes des questions auxquelles vous devrez répondre :
    
      - "Que voulez-vous partager avec le QR code ?" : Choisissez entre mot, lien, numéro de téléphone, SMS, ou autre.
-     - Saisissez la version du QR code : La "version" d'un code QR est un paramètre qui détermine la taille du code QR, c'est-à-dire le nombre de modules (carrés) dans le code. Plus la version est élevée, plus le code QR est grand et peut stocker davantage de données. En d'autres termes, la version contrôle la capacité du code QR à stocker des informations
+     - "Saisissez la version du QR code (De 1 à 40) : " : Définissez la version du code QR.
      - "Saisissez la taille du QR code (De 1 à 50) : " : Définissez la taille du code QR.
      - "Saisissez la taille de la bordure du QR code (De 1 à 20) : " : Choisissez la taille de la bordure.
      - Vous devrez également spécifier les couleurs pour le code QR et son arrière-plan.
