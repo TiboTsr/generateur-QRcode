@@ -1,6 +1,6 @@
 # Générateur de QR Code
 
-Ce projet est un outil simple de génération de QR codes en Python. Il vous permet de créer facilement des QR codes personnalisés pour diverses utilisations, telles que le diffusion de liens, de numéros de téléphone, l'affichage de données, et bien plus encore.
+Ce projet est un outil simple de génération de QR codes en Python. Il vous permet de créer facilement des QR codes personnalisés pour diverses utilisations, telles que la diffusion de liens, de numéros de téléphone, l'affichage de données, et bien plus encore.
 
 ## Fonctionnalités
 
@@ -21,20 +21,30 @@ Ce projet est un outil simple de génération de QR codes en Python. Il vous per
 - Nous vous recommandons toujours d'utiliser la dernière version pour bénéficier des dernières fonctionnalités et améliorations.
 - Si Windows Defender ou un autre logiciel de sécurité émet un avertissement, soyez rassuré que cet outil est sécuritaire et ne contient aucun logiciel malveillant.
 
-**Nouveautés de la version 6.0 :**
+## Nouveautés de la version 7
 
-1. **Prise en charge multilingue** :
-   - L'interface est maintenant disponible en français et en anglais.
-   - Les utilisateurs peuvent choisir leur langue préférée lors de l'utilisation.
+### Langue Sélectionnable
 
-2. **Validation des couleurs améliorée** :
-   - Les couleurs sont validées en fonction de la langue sélectionnée.
-   - Vous pouvez désormais saisir les noms de couleurs en français ou en anglais.
+Maintenant, l'interface utilisateur de notre générateur de QR Code est disponible en français et en anglais. Lorsque vous lancez l'outil, vous pouvez choisir votre langue préférée, rendant ainsi l'utilisation de l'outil plus conviviale pour un public diversifié. Sélectionnez simplement votre langue préférée au début de l'exécution de l'application pour une expérience plus personnalisée.
 
-3. **Nouvelle documentation Sphinx** :
-   - Le code a été complètement documenté pour aider les développeurs et les utilisateurs à comprendre et à utiliser l'outil plus facilement.
+### Niveaux de Difficulté
 
-4. **Corrections et améliorations diverses** :
-   - Divers bogues ont été corrigés et des améliorations de performance ont été apportées pour une expérience utilisateur optimale.
+Nous avons introduit différents niveaux de personnalisation pour répondre aux besoins de tous les utilisateurs. Vous pouvez choisir parmi les niveaux de difficulté suivants :
 
-Merci d'utiliser le Générateur de QR Code ! Nous espérons que cet outil vous sera utile pour créer des QR codes personnalisés pour toutes vos applications.
+- **Facile** : Convient aux débutants et à ceux qui souhaitent une utilisation simplifiée de l'outil. Parfait pour une génération rapide de QR Code.
+
+- **Difficile** : Si vous recherchez une personnalisation avancée, choisissez ce niveau. Vous pouvez ajuster de nombreux paramètres, tels que la taille, la couleur et bien plus encore pour créer un QR Code unique.
+
+### Validation des couleurs améliorée
+
+La validation des couleurs a été améliorée pour tenir compte de la langue sélectionnée. Vous pouvez désormais saisir les noms de couleurs en français ou en anglais, et l'outil les reconnaîtra automatiquement. Cela facilite la personnalisation des couleurs de vos QR Codes en fonction de vos préférences linguistiques.
+
+### Enregistrement Automatique
+
+Plus besoin de vous soucier de l'enregistrement de vos QR Codes. Ils sont automatiquement sauvegardés dans le dossier de téléchargement de votre ordinateur, simplifiant le processus de récupération de vos QR Codes générés.
+
+### Corrections et Améliorations Diverses
+
+Nous avons également apporté des corrections de bogues et des améliorations de performances pour vous offrir une expérience utilisateur optimale. Cette mise à jour vise à garantir que l'outil fonctionne de manière fluide et fiable.
+
+Avec ces nouvelles fonctionnalités, nous espérons que notre générateur de QR Code sera encore plus utile pour vous aider à créer des QR Codes personnalisés pour une variété d'applications. Profitez de l'utilisation de l'outil et n'hésitez pas à nous faire part de vos commentaires pour d'autres améliorations futures.
