@@ -1,3 +1,4 @@
 qrcode
+os
 Pillow
 urllib3
