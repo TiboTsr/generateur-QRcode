@@ -470,6 +470,4 @@ class QRCodeGenerator:
             f"Your QR code for {data} has been successfully saved in the download folder.")
 
         img.show(img_path)
-
-if __name__ == '__main__':
-    QRCodeGenerator().generate_qrcode()
+        
